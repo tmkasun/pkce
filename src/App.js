@@ -65,7 +65,7 @@ export default function App() {
 
     const params = {
       response_type: "code",
-      client_id: "kzSm2tAEn8HRr_cCL6uqbyRQcsIa",
+      client_id: "Y_yVGvePd_gJIiQv9yVlHJSgLTwa",
       scope:
         "apim:api_create apim:api_delete apim:api_import_export apim:api_product_import_export apim:api_publish apim:api_view apim:app_import_export apim:client_certificates_add apim:client_certificates_update apim:client_certificates_view apim:document_create apim:document_manage apim:ep_certificates_add apim:ep_certificates_update apim:ep_certificates_view apim:external_services_discover apim:mediation_policy_create apim:mediation_policy_manage apim:mediation_policy_view apim:pub_alert_manage apim:publisher_settings apim:shared_scope_manage apim:subscription_block apim:subscription_view apim:threat_protection_policy_create apim:threat_protection_policy_manage openid",
       redirect_uri: REDIRECT_URI,
