@@ -14,7 +14,7 @@ import Button from "@material-ui/core/Button";
 import Paper from "@material-ui/core/Paper";
 import Typography from "@material-ui/core/Typography";
 
-const REDIRECT_URI = "https://s7kjn.csb.app/";
+const REDIRECT_URI = "https://60bda797de84e87cad5e25e8--affectionate-archimedes-be45e5.netlify.app/";
 const CLIENT_ID = "Y_yVGvePd_gJIiQv9yVlHJSgLTwa";
 export default function App() {
   const classes = useStyles();
